@@ -64,7 +64,7 @@ This project demonstrates automated hyperparameter tuning for **Support Vector M
 - ⚡ **Efficiency**: Best parameters found within 15 iterations  
 
 ### Convergence Graph Analysis
-![Convergence Graph](convergence.png)
+![Convergence Graph](download.png)
 - **Rapid Learning**: 99% accuracy reached by iteration 5  
 - **Stabilization**: Marginal gains (<0.2%) after iteration 15  
 - **Robustness**: Small variance between iterations  
