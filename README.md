@@ -48,13 +48,22 @@ This project demonstrates automated hyperparameter tuning for **Support Vector M
 
 ## Results 📈
 ### Optimized Parameters Table
-| Sample | Accuracy | Kernel |   C   |  Gamma  |
-|--------|----------|--------|-------|---------|
-| S1     | 0.9967   | rbf    | 5.76  | 0.0787  |
-| S4     | 0.9970   | rbf    | 5.76  | 0.0787  |
-| S7     | 0.9970   | rbf    | 5.76  | 0.0787  |
-| S9     | 0.9970   | rbf    | 5.76  | 0.0787  |
-| S10    | 0.9964   | rbf    | 5.76  | 0.0787  |
+| Sample | Accuracy | Kernel |    C   |  Gamma  |
+|--------|----------|--------|--------|---------|
+| S1     | 0.9967   | rbf    | 5.76   | 0.0787  |
+| S2     | 0.9948   | rbf    | 81.05  | 0.0212  |
+| S3     | 0.9955   | rbf    | 5.76   | 0.0787  |
+| S4     | 0.9970   | rbf    | 5.76   | 0.0787  |
+| S5     | 0.9961   | rbf    | 5.76   | 0.0787  |
+| S6     | 0.9948   | rbf    | 5.76   | 0.0787  |
+| S7     | 0.9970   | rbf    | 5.76   | 0.0787  |
+| S8     | 0.9948   | rbf    | 5.76   | 0.0787  |
+| S9     | 0.9970   | rbf    | 5.76   | 0.0787  |
+| S10    | 0.9964   | rbf    | 5.76   | 0.0787  |
+
+
+
+
 
 **Key Observations**:
 - 🏆 **Peak Accuracy**: **99.70%** achieved in 3/10 samples  
